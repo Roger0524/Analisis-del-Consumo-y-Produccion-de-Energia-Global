@@ -43,13 +43,8 @@ La solución se compone de las siguientes capas:
 - `docs/Captura_HDFS.png` – Resultados almacenados en HDFS.  
 - `docs/Captura_Streaming.png` – Ejecución de Spark Streaming.
 
-## 🔗 Recursos
-- **Código:** [Repositorio en GitHub](https://github.com/tuusuario/Tarea3_Spark_Energia)
-- **Video explicativo:** [YouTube – Explicación del proyecto](https://youtu.be/tu_video)
-- **Dataset original:** [Our World in Data – Energy](https://ourworldindata.org/energy)
-
 ## 👨‍💻 Autor
 **Roger Andres Saumeth Visbal**  
-Estudiante de *Big Data*  
+*Big Data*  
 Universidad Nacional Abierta y a Distancia
-Año: 2025
+2025
