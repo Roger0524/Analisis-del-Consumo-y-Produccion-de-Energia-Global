@@ -1,4 +1,4 @@
-# Análisis del Consumo y Producción de Energía Global con Apache Spark
+# Análisis del Consumo y Producción de Energía Global
 
 ## 📘 Descripción General
 Este proyecto utiliza **Apache Spark** para procesar y analizar un conjunto de datos de gran volumen relacionado con el consumo, producción y fuentes de energía en más de 200 países.  
