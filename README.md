@@ -43,7 +43,7 @@ La solución se compone de las siguientes capas:
 - `docs/Captura_HDFS.png` – Resultados almacenados en HDFS.  
 - `docs/Captura_Streaming.png` – Ejecución de Spark Streaming.
 
-## 👨‍💻 Autor
+## 👦 Autor
 **Roger Andres Saumeth Visbal**  
 *Big Data*  
 Universidad Nacional Abierta y a Distancia
