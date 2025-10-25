@@ -30,7 +30,7 @@ Los datos fueron obtenidos de **Our World in Data – Energy**, elaborados por l
 - **Apache Kafka:** Se configuró un *topic* para simular la llegada de datos energéticos en tiempo real.  
 - **Spark Streaming:** Consume los datos desde Kafka, calcula métricas dinámicas y muestra resultados en consola.  
 
-## 🧩 Arquitectura de la Solución
+## 🏢 Arquitectura de la Solución
 La solución se compone de las siguientes capas:
 1. **Ingesta de Datos:** HDFS (CSV original) y Kafka (datos en streaming).  
 2. **Procesamiento Batch:** Spark SQL y DataFrames.  
