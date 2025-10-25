@@ -49,7 +49,7 @@ La solución se compone de las siguientes capas:
 - **Dataset original:** [Our World in Data – Energy](https://ourworldindata.org/energy)
 
 ## 👨‍💻 Autor
-**[Tu Nombre Completo]**  
-Estudiante de *Procesamiento de Datos con Apache Spark*  
-Universidad / Institución Educativa  
+**Roger Andres Saumeth Visbal**  
+Estudiante de *Big Data*  
+Universidad Nacional Abierta y a Distancia
 Año: 2025
